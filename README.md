@@ -73,10 +73,10 @@ def sumar(a, b):
 
 ### Tablas
 
-| Nombre | Edad | Ciudad |
+| Nombre | Edad | Ocupación |
 |--------|------|--------|
-| sara   | 23   | Madrid |
-| Luis   | 30   | Bogotá |
+| Ana    | 34   | Maestro|
+| Alberto| 18   | Locutor|
 
 ---
 
